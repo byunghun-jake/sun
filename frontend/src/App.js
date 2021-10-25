@@ -7,6 +7,7 @@ import Profile from "./pages/Profile"
 import Register from "./pages/Register"
 import EditProfile from "./pages/EditProfile"
 import ChangePassword from "./pages/ChangePassword"
+import Calendars from "./pages/Calendars"
 
 function App() {
   return (
@@ -22,6 +23,9 @@ function App() {
       </Route>
       <Route path="/auth/reset-password">
         <ResetPassword />
+      </Route>
+      <Route path="/calendars/:calendarId">
+        <Calendars />
       </Route>
       <Route path="/profile/edit" exact>
         <EditProfile />
