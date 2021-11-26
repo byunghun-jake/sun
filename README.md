@@ -46,8 +46,9 @@
 <div align="center">
     ![비밀번호찾기](README.assets/비밀번호찾기.gif)
 </div>
-
 #### 4. 프로필
+
+![프로필](README.assets/프로필.webp)
 
 <div align="center">
     ![프로필](README.assets/프로필.gif)
@@ -64,20 +65,33 @@
 <div align="center">
     ![캘린더](README.assets/캘린더.gif)
 </div>
+![캘린더](README.assets/캘린더.webp)
 
-#### 7. 과제별 채팅
+#### 7. 캘린더 관리
+
+![캘린더 관리](README.assets/캘린더 관리.webp)
+
+
+
+#### 8. 과제 관리
+
+![과제관리](README.assets/과제관리.webp)
+
+#### 9. 과제별 채팅
 
 <div align="center">
     ![채팅](README.assets/채팅.gif)
 </div>
+#### 10. 알림
 
-#### 8. 알림
+![알림센터](README.assets/알림센터.webp)
 
 <div align="center">
     ![알림센터](README.assets/image-20211117160147746.png)
 </div>
+#### 11. 채팅 알림
 
-#### 9. 채팅 알림
+![채팅센터](README.assets/채팅센터.webp)
 
 <div align="center">
     ![채팅센터](README.assets/image-20211117160216020.png)
