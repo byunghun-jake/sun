@@ -32,69 +32,69 @@
 #### 1. 로그인
 
 <div align="center">
-    ![로그인](README.assets/로그인.gif)
+    <img src="README.assets/로그인.gif" />
 </div>
 
 #### 2. 회원가입
 
 <div align="center">
-    ![회원가입](README.assets/회원가입.gif)
+    <img src="README.assets/회원가입.gif" />
 </div>
 
 #### 3. 아이디 / 비밀번호 찾기
 
 <div align="center">
-    ![비밀번호찾기](README.assets/비밀번호찾기.gif)
+    <img src="README.assets/비밀번호찾기.gif" />
 </div>
+
 #### 4. 프로필
 
-![프로필](README.assets/프로필.webp)
-
 <div align="center">
-    ![프로필](README.assets/프로필.gif)
+    <img src="README.assets/프로필.webp" />
 </div>
 
 #### 5. 비밀번호 수정
 
 <div align="center">
-    ![비밀번호 수정](README.assets/image-20211117155221389.png)
+    <img src="README.assets/image-20211117155221389.png" />
 </div>
 
 #### 6. 캘린더
 
 <div align="center">
-    ![캘린더](README.assets/캘린더.gif)
+    <img src="README.assets/캘린더.webp" />
 </div>
-![캘린더](README.assets/캘린더.webp)
 
 #### 7. 캘린더 관리
 
-![캘린더 관리](README.assets/캘린더 관리.webp)
+<div align="center">
+    <img src="README.assets/캘린더 관리.webp" />
+</div>
 
 
 
 #### 8. 과제 관리
 
-![과제관리](README.assets/과제관리.webp)
+<div align="center">
+    <img src="README.assets/과제관리.webp" />
+</div>
 
 #### 9. 과제별 채팅
 
 <div align="center">
-    ![채팅](README.assets/채팅.gif)
+    <img src="README.assets/채팅.gif" />
 </div>
+
 #### 10. 알림
 
-![알림센터](README.assets/알림센터.webp)
-
 <div align="center">
-    ![알림센터](README.assets/image-20211117160147746.png)
+    <img src="README.assets/알림센터.webp" />
 </div>
+
 #### 11. 채팅 알림
 
-![채팅센터](README.assets/채팅센터.webp)
-
 <div align="center">
-    ![채팅센터](README.assets/image-20211117160216020.png)
+    <img src="README.assets/채팅센터.webp" />
 </div>
 
 
@@ -102,10 +102,8 @@
 ### :building_construction: 서비스 구조
 
 <div align="center">
-    ![서비스 구조](README.assets/서비스 구조.png)
+    <img src="README.assets/서비스 구조.png" />
 </div>
-
-
 
 
 ##  :computer: 기술스택
