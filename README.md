@@ -14,7 +14,7 @@
 
 ## :calendar: 개발 기간
 
-- 2021년 10월 11일 ~ 2021년 11월 19일 (6주)
+- 2021년 10월 11일 ~ 2021년 11월 26일 (6주)
 
 
 
@@ -88,50 +88,65 @@
 ### :building_construction: 서비스 구조
 
 <div align="center">
-    ![서비스 구조](README.assets/image-20211119102044102.png)
+    ![서비스 구조](README.assets/서비스 구조.png)
 </div>
+
 
 
 
 ##  :computer: 기술스택
 
-### FE
-
-- HTML
-- CSS, SCSS
-- JavaScript
-- React
-- SWR
-- SockJS, STOMP client
-
-### BE
-
-- Spring boot
-- MySQL
-- Redis
-- JPA
-- JWT
-- SSE(Server Sent Events)
-- WebSocket
-- Kafka
-- S3
-
-### Infra
-
-- AWS EC2
-- Docker
-- Nginx
-- Kubernetes
+<details>
+    <summary>기술스택 & 라이브러리</summary>
+    <h4>FE</h4>
+    <ul>
+        <li>HTML</li>
+        <li>CSS, SCSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>SWR</li>
+        <li>SockJS, STOMP client</li>
+    </ul>
+    <h4>BE</h4>
+    <ul>
+        <li>Spring boot</li>
+        <li>MySQL</li>
+        <li>Redis</li>
+        <li>JPA</li>
+        <li>JWT</li>
+        <li>SSE(Server Sent Events)</li>
+        <li>WebSocket</li>
+        <li>Kafka</li>
+        <li>S3</li>
+    </ul>
+    <h4>Infra</h4>
+    <ul>
+        <li>AWS EC2</li>
+        <li>Docker</li>
+        <li>Nginx</li>
+        <li>Kubernetes</li>
+    </ul>
+</details>
 
 
 ## :hammer_and_wrench: 협업 툴
 
-- Gitlab
-- Jira
-- Notion
-- Gather Town
+<details>
+    <summary>협업 툴</summary>
+    <h4>협업 툴</h4>
+    <ul>
+        <li>Gitlab</li>
+        <li>Jira</li>
+        <li>Notion</li>
+        <li>Gather Town</li>
+    </ul>
+</details>
+
+
 
 ## :speech_balloon: 기록들 
-> [프로젝트 활동 기록(Notion)](https://www.notion.so/binitiger/SSAFY-fd747d28c47f448c874e01526b4349b2)  
+
+> [프로젝트 활동 기록(Notion)](https://www.notion.so/binitiger/SSAFY-fd747d28c47f448c874e01526b4349b2)
+>
 > [최종 발표](https://www.miricanvas.com/v/1q2282)
 
